@@ -50,7 +50,7 @@
 
 ## 🚀 시작 가이드
 
-이 프로젝트의 코드는 **Jupyter Notebook** 환경에서 가장 잘 실행됩니다.
+이 프로젝트의 코드는 **Antigravity** 환경에서 가장 잘 실행됩니다.
 
 1. **리포지토리 클론**:
     ```bash
@@ -63,10 +63,9 @@
     pip install scikit-learn pandas numpy matplotlib seaborn optuna folium
     ```
 
-3. **Jupyter Notebook 실행**:
-    ```bash
-    jupyter notebook
-    ```
+3. **Antigravity 실행**:
+    
+    Antigravity를 통해 프로젝트를 열고 노트북 파일을 실행합니다.
 
 ---
 💡 *이 코드는 데이터 분석 및 머신러닝 학습 목적으로 작성되었습니다.* ✨
