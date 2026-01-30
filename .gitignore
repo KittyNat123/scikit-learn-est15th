@@ -1,1 +1,4 @@
 .env
+*.pkl
+AutoGloun_medium
+AutoGloun_best
